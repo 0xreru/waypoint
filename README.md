@@ -89,6 +89,18 @@ stellar contract invoke \\
 - 📸 **Screenshot — Stellar Expert (Testnet)**
 <img width="1906" height="976" alt="testnet" src="https://github.com/user-attachments/assets/6bab2c23-75cb-4285-ac6e-1cc1a31486f1" />
 
+## Frontend Screenshots
+
+### Freighter Wallet Connection & Check Wallet balance
+<img width="1920" height="1080" alt="checkbalance" src="https://github.com/user-attachments/assets/f08effbd-4689-4d93-abea-99ba248bc9b0" />
+
+### Send XLM to another wallet on Testnet
+<img width="1920" height="1080" alt="signing payment" src="https://github.com/user-attachments/assets/b6129b66-dc6a-4c91-aec3-3ad207386f2f" />
+
+### Transaction Feedback to User
+<img width="1920" height="1080" alt="transaction success" src="https://github.com/user-attachments/assets/b00cfbb6-2d53-41d7-9b6a-cf2e00f22287" />
+
+
 ## **License**
 
 MIT
