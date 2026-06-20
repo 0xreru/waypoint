@@ -82,6 +82,13 @@ stellar contract invoke \\
   \-- \\  
   release
 
+## Deployment
+
+### Testnet
+- **Smart Contract Address:** `CCYAHHIAY2MYJ43NFQOSDDDXZUWN67C3VAQDWMIXDDJRZIX52PDVLHMZ`
+- 📸 **Screenshot — Stellar Expert (Testnet)**
+<img width="1906" height="976" alt="testnet" src="https://github.com/user-attachments/assets/6bab2c23-75cb-4285-ac6e-1cc1a31486f1" />
+
 ## **License**
 
 MIT
