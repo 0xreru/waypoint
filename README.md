@@ -82,6 +82,52 @@ stellar contract invoke \\
   \-- \\  
   release
 
+## 🚀 Frontend Quick Start
+
+### Prerequisites
+* **Node.js 18+** - [Download](https://nodejs.org/)
+* **A Stellar Wallet** - 
+  * [Freighter](https://www.freighter.app/) (Recommended)
+
+### Installation
+```bash
+# Clone the repository
+git clone <your-repo-url>
+cd waypoint/frontend
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+Open http://localhost:5173 in your browser.
+
+### Get Testnet XLM
+1. Connect your wallet
+2. Copy your address
+3. Visit [Stellar Laboratory](https://laboratory.stellar.org/#account-creator?network=test)
+4. Paste your address and click "Get test network XLM"
+5. Refresh your balance!
+
+### 📁 Project Structure
+```text
+frontend/
+├── src/
+│   ├── App.tsx                    # Main application component
+│   ├── index.css                  # Global styles
+│   ├── main.tsx                   # React entry point
+│   ├── components/                # UI Components
+│   │   ├── SendTransactionForm.tsx # Send payment form
+│   │   └── StellarWalletPanel.tsx  # Wallet connection & info display
+│   ├── hooks/                     # Custom React hooks
+│   │   └── useStellarWallet.ts    # Wallet connection logic
+│   └── lib/                       # Utilities and helpers
+│       └── stellar.ts             # Blockchain logic
+├── package.json                   # Dependencies and scripts
+└── vite.config.ts                 # Vite configuration
+```
+
 ## Deployment
 
 ### Testnet
